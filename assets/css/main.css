@@ -621,6 +621,18 @@ input, select, textarea {
 /* Box */
 
 	.box {
+		background: #005156;
+		color: #39454b;
+		padding: 2em;
+	}
+
+	.box2 {
+		background: #ffffff;
+		color: #39454b;
+		padding: 2em;
+	}
+
+	.box3 {
 		background: #ffffff;
 		color: #39454b;
 		padding: 2em;
@@ -642,7 +654,7 @@ input, select, textarea {
 
 				.box.style2 {
 					padding: 1.5em 1.25em 1.5em 1.25em;
-					background-color: rgba(255, 255, 255, 0.9);
+					background-color: #005156;
 				}
 
 		}
@@ -2229,7 +2241,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/wallpaperhome.jpg");
+		background: url("images/wallpaper.png"), url("../../images/wallpaper4.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2239,7 +2251,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/WallpaperPortum.png");
+		background: url("images/w"), url("../../images/wallpaper2.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2248,7 +2260,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/question.jpg");
+		background: url("images/w"), url("../../images/wallpaper3.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
